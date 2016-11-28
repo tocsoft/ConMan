@@ -62,6 +62,7 @@
     <Compile Include="Wrappers\IFileSystem.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ConMan.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
