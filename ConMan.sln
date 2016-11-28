@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConMan", "ConMan\ConMan.csproj", "{EEF6ECD1-659D-4A16-972D-7F68DC010FB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConMan.Tests", "ConMan.Tests\ConMan.Tests.csproj", "{2D6BA27D-54A4-405F-87FB-D243A1D321DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF6ECD1-659D-4A16-972D-7F68DC010FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF6ECD1-659D-4A16-972D-7F68DC010FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF6ECD1-659D-4A16-972D-7F68DC010FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF6ECD1-659D-4A16-972D-7F68DC010FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6BA27D-54A4-405F-87FB-D243A1D321DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6BA27D-54A4-405F-87FB-D243A1D321DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6BA27D-54A4-405F-87FB-D243A1D321DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6BA27D-54A4-405F-87FB-D243A1D321DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
