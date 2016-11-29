@@ -5,9 +5,9 @@
         <version>$version$</version>
         <authors>Tocsoft</authors>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Framework for locading application configuration from a multiple sources and compositing them together.</description>
+        <description>Framework for compositing multiple application configurations together. Including environment variables, App.Config files and dev machine secrets.</description>
         <projectUrl>https://github.com/tocsoft/ConMan</projectUrl>
         <licenseUrl>https://github.com/tocsoft/ConMan/blob/master/LICENCE</licenseUrl>
-        <tags>Validation MobilePhone CreditCard Validate</tags>
+        <tags>Configuration Env json dev</tags>
     </metadata>
 </package>
