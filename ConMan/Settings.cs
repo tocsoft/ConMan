@@ -11,5 +11,10 @@ namespace ConMan
         {
             configuration?.Invoke(SettingsManager.GlobalInstance);
         }
+
+        public static string GetSetting(string path)
+        {
+            return SettingsManager.GlobalInstance.GetSetting(path);
+        }
     }
 }
