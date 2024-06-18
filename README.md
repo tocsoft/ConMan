@@ -1,3 +1,5 @@
+> use Microsoft.Extensions.Configuration - this code existed to provide a backwards maintainable simulation for full framrwork usage
+
 # ConMan
 
 Load configs from App/Web.config (AppSettings), Environment Variables and a dedicated named json file 
